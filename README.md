@@ -1,3 +1,3 @@
 # aedit.github.io
 
-Please visit https://aedit.me
+Please visit [Portfolio](https://aedit.me) by clicking it.
